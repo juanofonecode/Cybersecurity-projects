@@ -34,5 +34,5 @@ This repo contains hands-on cybersecurity projects built using **Splunk**, **Win
 
 ## 👤 Built By: Juwan Naylor
 Actively transitioning into cybersecurity with hands-on Splunk experience and a Security+ certification.
-
+linkedin.com/in/juwan-naylor-2a87a0266
 
