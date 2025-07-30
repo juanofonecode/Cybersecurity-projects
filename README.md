@@ -22,9 +22,7 @@ This repo contains hands-on cybersecurity projects built using **Splunk**, **Win
 
 ## 📄 PDF Report
 
-[📥 Download Full Portfolio (PDF)](Splunk_SOC_Projects_Portfolio.pdf) *(Upload the file first so this link works)*
 
----
 
 ## 🛠️ Tools Used
 - Splunk Enterprise 9.0 (Free version)
@@ -37,4 +35,4 @@ This repo contains hands-on cybersecurity projects built using **Splunk**, **Win
 ## 👤 Built By: Juwan Naylor
 Actively transitioning into cybersecurity with hands-on Splunk experience and a Security+ certification.
 
-[🔗 LinkedIn Profile](https://www.linkedin.com/in/juwannaylor/)
+
